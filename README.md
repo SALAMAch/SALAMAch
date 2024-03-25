@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SALAMA CHAKKAR</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-<p align="center"><img src="[[[https://i.pinimg.com/564x/8d/b4/82/8db482143022f6233047e420732393a8.jpg](https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif)](https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif)](https://i.pinimg.com/564x/3b/da/58/3bda585ceabcae86a826c57305d1ff39.jpg)" alt="" width="150px"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif" alt="" width="150px"></p>
 <p align="left">
 </p>
 
