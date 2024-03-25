@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SALAMA CHAKKAR</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-<p align="center"><img src="giphy.gif" alt="" width="150px"></p>
+<p align="center"><img src="https://i.pinimg.com/564x/8d/b4/82/8db482143022f6233047e420732393a8.jpg" alt="" width="150px"></p>
 <p align="left">
 </p>
 
