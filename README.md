@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SALAMA CHAKKAR</h1>
 <h3 align="center">A digital development intern at ISGI from Morocco</h3>
 
-<img src="https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif" alt="" width="100%">
+<img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="" >
 <p align="left">
 </p>
 
