@@ -9,8 +9,8 @@
 ---
 
 ### 🌸 About Me
-☁️ **Education:** Digital Development (Full Stack) from ISGI Azli.<br>
-🧸 **Languages:** Arabic (Native), French (Good), English (Good).<br>
+☁️ **Education:** Digital Development Full Stack from ISGI Azli.<br>
+🧸 **Languages:** Arabic , French , English .<br>
 🍓 **Hobbies:** Drawing, Swimming, and Fashion.<br>
 ✨ **Motto:** Serious, organized, and a quick learner.<br>
 
