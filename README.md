@@ -1,21 +1,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=ffb7c5&height=180&section=header&text=Hi,%20I'm%20Salama%20Chakkar%20✨&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3R4bm96Zms3bm96Zms3bm96Zms3bm96Zms3bm96Zms3bm96Zms3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1z/v098pYvPzL7x97zV7f/giphy.gif" width="120px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5emRnd296bm96bm96bm96bm96bm96bm96bm96bm96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1z/L1EqpJWC6S7LqG20rS/giphy.gif" width="150px">
 
   ### 🎀 Full Stack Developer | Marrakech, Morocco 🇲🇦 
-  [cite_start]**Passionate about clean code and aesthetic digital solutions.** [cite: 12]
-
-  <img src="https://komarev.com/ghpvc/?username=salamachakkar&label=Profile%20Views&color=ffb7c5&style=flat-square" />
+  **Passionate about clean code and aesthetic digital solutions.** <img src="https://komarev.com/ghpvc/?username=salamachakkar&label=Profile%20Views&color=ffb7c5&style=flat-square" />
 </div>
 
 ---
 
 ### 🌸 About Me
-- ☁️ **Education:** Digital Development (Full Stack) from ISGI Azli[cite: 23].
+- ☁️ **Education:** Digital Development (Full Stack) from ISGI Azli.
 - 🧸 **Languages:** Arabic (Native), French (Good), English (Good).
-- 🍓 **Hobbies:** Drawing, Swimming, and Fashion[cite: 10].
-- ✨ **Motto:** Serious, organized, and a quick learner[cite: 32, 33, 34].
+- 🍓 **Hobbies:** Drawing, Swimming, and Fashion.
+- ✨ **Motto:** Serious, organized, and a quick learner.
 
 ---
 
@@ -26,18 +24,14 @@
 
 ---
 
-### ☁️ Projects & Learning
-- 💊 **E-commerce:** Built a pharmacy platform with PayPal API integration[cite: 21].
-- 🚀 **Currently Exploring:** Advanced Laravel and React Native.
-
----
-
 ### 💌 Let's Connect!
 <div align="center">
-  [cite_start]<a href="mailto:salamachakkar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a> [cite: 2]
+  <a href="mailto:salamachakkar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://linkedin.com/in/salama-chakkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/get_the_vibe.gif" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVpZ2p3amN6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/swhRkVYLJDrCE/giphy.gif" width="60%">
 </div>
