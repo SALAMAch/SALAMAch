@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=ffb7c5&height=180&section=header&text=Hi,%20I'm%20Salama%20Chakkar%20✨&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3R4bm96Zms3bm96Zms3bm96Zms3bm96Zms3bm96Zms3bm96Zms3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1z/v098pYvPzL7x97zV7f/giphy.gif" width="120px">
 
