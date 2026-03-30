@@ -1,44 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=ffb7c5&height=200&section=header&text=Hi%20there,%20I'm%20Salama!%20✨&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=ffb7c5&height=180&section=header&text=Hi,%20I'm%20Salama%20Chakkar%20✨&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3R4bm96Zms3bm96Zms3bm96Zms3bm96Zms3bm96Zms3bm96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L8uY6S77C9VnK/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3R4bm96Zms3bm96Zms3bm96Zms3bm96Zms3bm96Zms3bm96Zms3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1z/v098pYvPzL7x97zV7f/giphy.gif" width="120px">
 
-  ### 🎀 Full Stack Developer | Crafting Digital Magic from Morocco 🇲🇦
+  ### 🎀 Full Stack Developer | [cite_start]Marrakech, Morocco 🇲🇦 [cite: 4, 12]
+  [cite_start]**Passionate about clean code and aesthetic digital solutions.** [cite: 12]
 
-  *“Turning coffee into code and dreams into pixels.”*
-  
-  <img src="https://komarev.com/ghpvc/?username=salamachakkar&label=Profile%20Views&color=ffb7c5&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=salamachakkar&label=Profile%20Views&color=ffb7c5&style=flat-square" />
 </div>
 
 ---
 
 ### 🌸 About Me
-- ☁️ **Currently exploring:** Advanced Laravel & React Native
-- 🧸 **Focusing on:** Creating user-friendly, clean, and aesthetic web solutions
-- 🍓 **Fun Fact:** I love finding the perfect balance between logic and design
+- [cite_start]☁️ **Education:** Digital Development (Full Stack) from ISGI Azli[cite: 23].
+- [cite_start]🧸 **Languages:** Arabic (Native), French (Good), English (Good).
+- [cite_start]🍓 **Hobbies:** Drawing, Swimming, and Fashion[cite: 10].
+- [cite_start]✨ **Motto:** Serious, organized, and a quick learner[cite: 32, 33, 34].
 
 ---
 
-### 🍬 Tech Stack & Tools
+### 🍬 My Tech Garden
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,react,mysql,mongodb,wordpress&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,mysql,mongodb,react,laravel,bootstrap,wordpress,figma&perline=6" />
 </p>
 
 ---
 
-### ☁️ Coding Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=salamachakkar&show_icons=true&theme=rose-pine&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamachakkar&layout=compact&theme=rose-pine&hide_border=true" />
-</div>
+### ☁️ Projects & Learning
+- [cite_start]💊 **E-commerce:** Built a pharmacy platform with PayPal API integration[cite: 21].
+- 🚀 **Currently Exploring:** Advanced Laravel and React Native.
 
 ---
 
 ### 💌 Let's Connect!
 <div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  [cite_start]<a href="mailto:salamachakkar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a> [cite: 2]
   <a href="https://linkedin.com/in/salama-chakkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/salama_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
 <div align="center">
