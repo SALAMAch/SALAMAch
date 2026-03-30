@@ -3,7 +3,7 @@
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3R4bm96Zms3bm96Zms3bm96Zms3bm96Zms3bm96Zms3bm96Zms3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1z/v098pYvPzL7x97zV7f/giphy.gif" width="120px">
 
-  ### 🎀 Full Stack Developer | [cite_start]Marrakech, Morocco 🇲🇦 [cite: 4, 12]
+  ### 🎀 Full Stack Developer | Marrakech, Morocco 🇲🇦 
   [cite_start]**Passionate about clean code and aesthetic digital solutions.** [cite: 12]
 
   <img src="https://komarev.com/ghpvc/?username=salamachakkar&label=Profile%20Views&color=ffb7c5&style=flat-square" />
@@ -12,10 +12,10 @@
 ---
 
 ### 🌸 About Me
-- [cite_start]☁️ **Education:** Digital Development (Full Stack) from ISGI Azli[cite: 23].
-- [cite_start]🧸 **Languages:** Arabic (Native), French (Good), English (Good).
-- [cite_start]🍓 **Hobbies:** Drawing, Swimming, and Fashion[cite: 10].
-- [cite_start]✨ **Motto:** Serious, organized, and a quick learner[cite: 32, 33, 34].
+- ☁️ **Education:** Digital Development (Full Stack) from ISGI Azli[cite: 23].
+- 🧸 **Languages:** Arabic (Native), French (Good), English (Good).
+- 🍓 **Hobbies:** Drawing, Swimming, and Fashion[cite: 10].
+- ✨ **Motto:** Serious, organized, and a quick learner[cite: 32, 33, 34].
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 ### ☁️ Projects & Learning
-- [cite_start]💊 **E-commerce:** Built a pharmacy platform with PayPal API integration[cite: 21].
+- 💊 **E-commerce:** Built a pharmacy platform with PayPal API integration[cite: 21].
 - 🚀 **Currently Exploring:** Advanced Laravel and React Native.
 
 ---
