@@ -5,7 +5,6 @@
 
   ### 🎀 Full Stack Developer | Marrakech, Morocco 🇲🇦 
   **Passionate about clean code and aesthetic digital solutions.** 
-  <img src="https://komarev.com/ghpvc/?username=salamachakkar&label=Profile%20Views&color=ffb7c5&style=flat-square" />
 </div>
 
 ---
