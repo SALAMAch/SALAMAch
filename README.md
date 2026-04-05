@@ -26,7 +26,7 @@
 ### Let's Connect!
 <div align="center">
   <a href="mailto:salamachakkar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-  <a href="www.linkedin.com/in/salama-chakkar-44071a346"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/salama-chakkar-44071a346"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <div align="center">
